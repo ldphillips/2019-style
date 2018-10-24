@@ -1,8 +1,5 @@
-/** Get URL for Stylesheet by clicking "RAW" button **/
+/** 2019 Stylesheet **/
 
-a {
-	color: teal!important; /*TEST*/
-}
 
 /* Originally based on custom CSS from 2017.kualalumpur.wordcamp.org */
 
@@ -1190,7 +1187,7 @@ pre code {
 	background-repeat: no-repeat;
 	background-position: 50% 0;
 	background-size: fixed;
-	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/cowscape_small.jpg');
+	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/main-banner.jpg');
 	transition: all .15s ease;
 }
 
