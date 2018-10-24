@@ -713,12 +713,12 @@ a {
 }
 
 a:focus,a:hover {
-	color: #F26526;
+	color: teal; /*TESTING CHANGE COLOR*/
 	text-decoration: underline;
 }
 
 a:active {
-	color: #F26526;
+	color: teal; /*TESTING CHANGE COLOR*/
 	text-decoration: none;
 }
 
