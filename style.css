@@ -1,7 +1,7 @@
-/** Get URL for Stylesheet by clicking "RAW" button **/ /*TESTING CHANGE COLOR*/
+/** Get URL for Stylesheet by clicking "RAW" button **/
 
 a {
-	color: teal!important;
+	color: teal!important; /*TEST*/
 }
 
 /* Originally based on custom CSS from 2017.kualalumpur.wordcamp.org */
@@ -717,12 +717,12 @@ a {
 }
 
 a:focus,a:hover {
-	color: teal; /*TESTING CHANGE COLOR*/
+	color: #6f943e;
 	text-decoration: underline;
 }
 
 a:active {
-	color: teal; /*TESTING CHANGE COLOR*/
+	color: #6f943e;
 	text-decoration: none;
 }
 
