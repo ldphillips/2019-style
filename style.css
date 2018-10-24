@@ -1,7 +1,7 @@
 /** Get URL for Stylesheet by clicking "RAW" button **/ /*TESTING CHANGE COLOR*/
 
 a {
-	color: teal;
+	color: teal!important;
 }
 
 /* Originally based on custom CSS from 2017.kualalumpur.wordcamp.org */
